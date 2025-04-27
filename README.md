@@ -1,5 +1,8 @@
 # Projeto - API com Swagger, Redis e Postgres
 
+![ChatGPT Image 27 de abr  de 2025, 07_56_34](https://github.com/user-attachments/assets/ce5a0a07-9ebb-4a82-ad18-aa8dba09acf4)
+
+
  Acesso em Produção ou local, é necessario autenticar
 
 # Swagger (Documentação da API)
