@@ -1,6 +1,6 @@
 # Projeto - API com Swagger, Redis e Postgres
 
-Acesso em Produção
+ Acesso em Produção ou local, pois é necessario autenticar
 
 # Swagger (Documentação da API)
 
