@@ -4,13 +4,15 @@
 
 # Swagger (Documentação da API)
 
-http://68.183.19.165:3333/api
+http://67.205.168.76:3333/api
+
 Usuário: admin
+
 Senha: 123456
 
 # Banco de Dados - Interface Adminer
 
-http://68.183.19.165:5050/login?next=/
+http://67.205.168.76:5050/login?next=/
 Email: saulotm90@outlook.com
 Senha: 123456
 
